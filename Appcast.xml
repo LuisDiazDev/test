@@ -3,15 +3,15 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.5.0 test</title>
-            <description>test app cast</description>
+            <title>Version 1.4.2 test</title>
+            <description>pruebas actualizacion app</description>
             <pubDate>Martes, 19 oct 2021 4:24:00 +0000</pubDate>
             <enclosure
-                url="https://https://play.google.com/store/apps/details?id=com.bicom2"
-                sparkle:version="1.5.0"
+                url="play.google.com/store/apps/details?id=com.bicom2"
+                sparkle:version="1.4.2"
                 sparkle:os="android" />
             <sparkle:tags>
-                <sparkle:criticalUpdate></sparkle:criticalUpdate>
+<!--                <sparkle:criticalUpdate></sparkle:criticalUpdate>-->
             </sparkle:tags>
         </item>
     </channel>
